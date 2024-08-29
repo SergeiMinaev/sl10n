@@ -1,0 +1,9 @@
+[package]
+name = "modules-example"
+version = "0.0.1"
+edition = "2021"
+
+
+[dependencies]
+sl10n = { path = "../.." }
+once_cell = "1.19"
